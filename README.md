@@ -1,2 +1,2 @@
-# protoactor-mariadb-persistence
-MariaDB persistence provider for Proto Actor
+# protoactor-addons
+Addons for Proto Actor, including MariaDB and Redis persistence
